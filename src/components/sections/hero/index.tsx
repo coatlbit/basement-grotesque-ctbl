@@ -120,11 +120,11 @@ const Hero = () => {
             data-scroll-speed={-0.6}
             className="hero__title"
           >
-            Basement{' '}
+            Tecno{' '}
           </Outlined>
           <br style={{ userSelect: 'none' }} />
           <div data-scroll data-scroll-speed={0.4} data-cursor="undefined">
-            <em className="hero__subtitle">Grotesque</em>
+            <em className="hero__subtitle">Loga</em>
           </div>
         </Title>
         <Subtitle
@@ -135,7 +135,7 @@ const Hero = () => {
           onClick={scrollTo}
           variant="underlined"
         >
-          KNOW MORE ABOUT IT DOWNSTAIRS
+          Apply for Free Scholarship or become a Volunter
         </Subtitle>
       </Wrapper>
       <ImageContainer>
